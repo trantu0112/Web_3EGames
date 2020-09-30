@@ -1,266 +1,1132 @@
-<!-- ##### Video Area Start ##### -->
-<div class="egames-video-area section-padding-100 bg-pattern2">
-    <div class="container">
-        <div class="row no-gutters">
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="egames-nav-btn">
-                    <div class="nav flex-column" id="video-tab" role="tablist" aria-orientation="vertical">
-                        <a class="nav-link active" id="video1" data-toggle="pill" href="#video-1" role="tab" aria-controls="video-1" aria-selected="true">
-                            <!-- Single Video Widget -->
-                            <div class="single-video-widget d-flex wow fadeInUp" data-wow-delay="100ms">
-                                <div class="video-thumbnail">
-                                    <img src="img/bg-img/14.jpg" alt="">
-                                </div>
-                                <div class="video-text">
-                                    <p class="video-title mb-0">Assemble Your Squad and Join the Battle</p>
-                                    <span>Nintendo Wii, PS4, XBox 360</span>
-                                </div>
-                                <div class="video-rating">8.3/10</div>
-                            </div>
-                        </a>
 
-                        <a class="nav-link" id="video2" data-toggle="pill" href="#video-2" role="tab" aria-controls="video-2" aria-selected="false">
-                            <!-- Single Video Widget -->
-                            <div class="single-video-widget d-flex wow fadeInUp" data-wow-delay="200ms">
-                                <div class="video-thumbnail">
-                                    <img src="img/bg-img/15.jpg" alt="">
-                                </div>
-                                <div class="video-text">
-                                    <p class="video-title mb-0">Tips to improve your game</p>
-                                    <span>Nintendo Wii, PS4, XBox 360</span>
-                                </div>
-                                <div class="video-rating">8.3/10</div>
+<div class="em-main-container em-col1-layout">
+    <div class="row">
+        <div class="em-col-main col-sm-24">
+            <div class="std"></div>
+            <div class="em-wrapper-new-arrivals-tabs">
+                <div class="em-new-arrivals-tabs em-line-01 button-hide-text">
+                    <div id="em_ajax_tabs_7d75aeb4cfe538d7b7ef9dbe46cca6f2" class="emtabs-ajaxblock-loaded">
+                        <div class="em-tabs-widget tabs-widget ">
+                            <div class="widget-title em-widget-title">
+                                <h3><span>Tất cả</span></h3>
                             </div>
-                        </a>
-
-                        <a class="nav-link" id="video3" data-toggle="pill" href="#video-3" role="tab" aria-controls="video-3" aria-selected="false">
-                            <!-- Single Video Widget -->
-                            <div class="single-video-widget d-flex wow fadeInUp" data-wow-delay="300ms">
-                                <div class="video-thumbnail">
-                                    <img src="img/bg-img/16.jpg" alt="">
+                            <div class="em-tabs emtabs" id="emtabs_e90d3fc11ac242f35c3c7467f6a4dc79">
+                                <ul class="em-tabs-control tabs-control">
+                                    <li>
+                                        <a href="#tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_1" data-hover="Nhập vai"> <span class="icon tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_1"></span>Nhập vai</a>
+                                    </li>
+                                    <li>
+                                        <a href="#tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_2" data-hover="Hành động"> <span class="icon tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_2"></span>Hành động</a>
+                                    </li>
+                                    <li>
+                                        <a href="#tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_3" data-hover="Chiến thuật"> <span class="icon tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_3"></span>Chiến thuật</a>
+                                    </li>
+                                    <li>
+                                        <a href="#tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_4" data-hover="Thể thao"> <span class="icon tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_4"></span>MOBA</a>
+                                    </li>
+                                </ul>
+                                <div class="em-tabs-content tab-content">
+                                    <div id="tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_1" class="tab-pane tab-item content_tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_1">
+                                        <div class="button-show01">
+                                            <div id="em_ajax_products_36a53fafc63b4750cd9adcb513cbe69b" class="emfilter-ajaxblock-loaded">
+                                                <div id="em_gameworld_new_arrivals_tab01" class="em-grid-20 ">
+                                                    <div class="widget em-filterproducts-grid">
+                                                        <div class="widget-products em-widget-products">
+                                                            <div id="em-grid-mode-em_gameworld_new_arrivals_tab01">
+                                                                <div class="products-grid owl-carousel owl-theme ">
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title=" Frozen" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp5_2.jpg" width="350" height="350" alt=" Frozen" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp5_1.jpg" width="350" height="350" alt=" Frozen" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#406" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#406" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title=" Frozen"> Frozen</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$860.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Cinderella 2-Disc" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp10_2.jpg" width="350" height="350" alt="Cinderella 2-Disc" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp10_1.jpg" width="350" height="350" alt="Cinderella 2-Disc" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#411" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#411" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Cinderella 2-Disc">Cinderella 2-Disc</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$150.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Furious 7" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp7_2.jpg" width="350" height="350" alt="Furious 7" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp7_1.jpg" width="350" height="350" alt="Furious 7" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#408" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#408" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Furious 7">Furious 7</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$110.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Iron Man 3" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp3_2.jpg" width="350" height="350" alt="Iron Man 3" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp3_1.jpg" width="350" height="350" alt="Iron Man 3" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#404" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#404" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Iron Man 3">Iron Man 3</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$130.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Jupiter Ascending" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp8_2.jpg" width="350" height="350" alt="Jupiter Ascending" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp8_1.jpg" width="350" height="350" alt="Jupiter Ascending" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#409" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#409" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Jupiter Ascending">Jupiter Ascending</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$170.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- /.em-grid-20 -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_2" class="tab-pane tab-item content_tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_2">
+                                        <div class="button-show01">
+                                            <div id="em_ajax_products_b3e41d9d1b70731f76580260d5034327" class="emfilter-ajaxblock-loaded">
+                                                <div id="em_gameworld_new_arrivals_tab02" class="em-grid-20 ">
+                                                    <div class="widget em-filterproducts-grid">
+                                                        <div class="widget-products em-widget-products">
+                                                            <div id="em-grid-mode-em_gameworld_new_arrivals_tab02">
+                                                                <div class="products-grid owl-carousel owl-theme ">
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title=" Frozen" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp5_2.jpg" width="350" height="350" alt=" Frozen" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp5_1.jpg" width="350" height="350" alt=" Frozen" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#406" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#406" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title=" Frozen"> Frozen</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$860.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Cinderella 2-Disc" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp10_2.jpg" width="350" height="350" alt="Cinderella 2-Disc" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp10_1.jpg" width="350" height="350" alt="Cinderella 2-Disc" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#411" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#411" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Cinderella 2-Disc">Cinderella 2-Disc</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$150.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Furious 7" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp7_2.jpg" width="350" height="350" alt="Furious 7" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp7_1.jpg" width="350" height="350" alt="Furious 7" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#408" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#408" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Furious 7">Furious 7</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$110.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Iron Man 3" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp3_2.jpg" width="350" height="350" alt="Iron Man 3" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp3_1.jpg" width="350" height="350" alt="Iron Man 3" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#404" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#404" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Iron Man 3">Iron Man 3</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$130.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Jupiter Ascending" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp8_2.jpg" width="350" height="350" alt="Jupiter Ascending" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp8_1.jpg" width="350" height="350" alt="Jupiter Ascending" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#409" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#409" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Jupiter Ascending">Jupiter Ascending</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$170.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- /.em-grid-20 -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_3" class="tab-pane tab-item content_tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_3">
+                                        <div class="button-show01">
+                                            <div id="em_ajax_products_3334055f6428bf97bee8e4522474a86c" class="emfilter-ajaxblock-loaded">
+                                                <div id="em_gameworld_new_arrivals_tab03" class="em-grid-20 ">
+                                                    <div class="widget em-filterproducts-grid">
+                                                        <div class="widget-products em-widget-products">
+                                                            <div id="em-grid-mode-em_gameworld_new_arrivals_tab03">
+                                                                <div class="products-grid owl-carousel owl-theme ">
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title=" Frozen" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp5_2.jpg" width="350" height="350" alt=" Frozen" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp5_1.jpg" width="350" height="350" alt=" Frozen" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#406" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#406" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title=" Frozen"> Frozen</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$860.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Cinderella 2-Disc" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp10_2.jpg" width="350" height="350" alt="Cinderella 2-Disc" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp10_1.jpg" width="350" height="350" alt="Cinderella 2-Disc" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#411" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#411" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Cinderella 2-Disc">Cinderella 2-Disc</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$150.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Furious 7" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp7_2.jpg" width="350" height="350" alt="Furious 7" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp7_1.jpg" width="350" height="350" alt="Furious 7" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#408" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#408" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Furious 7">Furious 7</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$110.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Iron Man 3" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp3_2.jpg" width="350" height="350" alt="Iron Man 3" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp3_1.jpg" width="350" height="350" alt="Iron Man 3" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#404" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#404" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Iron Man 3">Iron Man 3</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$130.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Jupiter Ascending" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp8_2.jpg" width="350" height="350" alt="Jupiter Ascending" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp8_1.jpg" width="350" height="350" alt="Jupiter Ascending" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#409" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#409" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Jupiter Ascending">Jupiter Ascending</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$170.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- /.em-grid-20 -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_4" class="tab-pane tab-item content_tab_emtabs_e90d3fc11ac242f35c3c7467f6a4dc79_4">
+                                        <div class="button-show01">
+                                            <div id="em_ajax_products_68843be3fb0001b0f34be27861e5c122" class="emfilter-ajaxblock-loaded">
+                                                <div id="em_gameworld_new_arrivals_tab04" class="em-grid-20 ">
+                                                    <div class="widget em-filterproducts-grid">
+                                                        <div class="widget-products em-widget-products">
+                                                            <div id="em-grid-mode-em_gameworld_new_arrivals_tab04">
+                                                                <div class="products-grid owl-carousel owl-theme ">
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title=" Frozen" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp5_2.jpg" width="350" height="350" alt=" Frozen" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp5_1.jpg" width="350" height="350" alt=" Frozen" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#406" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#406" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title=" Frozen"> Frozen</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$860.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Cinderella 2-Disc" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp10_2.jpg" width="350" height="350" alt="Cinderella 2-Disc" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp10_1.jpg" width="350" height="350" alt="Cinderella 2-Disc" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#411" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#411" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Cinderella 2-Disc">Cinderella 2-Disc</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$150.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Furious 7" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp7_2.jpg" width="350" height="350" alt="Furious 7" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp7_1.jpg" width="350" height="350" alt="Furious 7" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#408" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#408" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Furious 7">Furious 7</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$110.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Iron Man 3" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp3_2.jpg" width="350" height="350" alt="Iron Man 3" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp3_1.jpg" width="350" height="350" alt="Iron Man 3" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#404" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#404" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Iron Man 3">Iron Man 3</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$130.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                    <div class="item">
+                                                                        <div class="product-item">
+                                                                            <div class="product-shop-top">
+                                                                                <a href="product-detail.html" title="Jupiter Ascending" class="product-image">
+                                                                                    <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp8_2.jpg" width="350" height="350" alt="Jupiter Ascending" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp8_1.jpg" width="350" height="350" alt="Jupiter Ascending" /> </a>
+                                                                                <div class="em-element-display-hover bottom">
+                                                                                    <div class="em-btn-addto">
+                                                                                        <!--product add to cart-->
+                                                                                        <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                                                        </button>
+                                                                                        <!--product add to compare-wishlist-->
+                                                                                        <ul class="add-to-links">
+                                                                                            <li><a href="#409" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                                            </li>
+                                                                                            <li><span class="separator">|</span> <a href="#409" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="product-shop">
+                                                                                <div class="f-fix">
+                                                                                    <!--product name-->
+                                                                                    <h3 class="product-name"><a href="product-detail.html" title="Jupiter Ascending">Jupiter Ascending</a></h3>
+                                                                                    <!--product description-->
+                                                                                    <!--product reviews-->
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating" style="width:%"></div>
+                                                                                        </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                                                    <!--product price-->
+                                                                                </div>
+                                                                                <div class="price-box"> <span class="regular-price">
+                                                                                                                    <span class="price">$170.00</span> </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- /.item -->
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- /.em-grid-20 -->
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="video-text">
-                                    <p class="video-title mb-0">Game reviews: the best of 2018</p>
-                                    <span>Nintendo Wii, PS4, XBox 360</span>
-                                </div>
-                                <div class="video-rating">8.3/10</div>
                             </div>
-                        </a>
-
-                        <a class="nav-link" id="video4" data-toggle="pill" href="#video-4" role="tab" aria-controls="video-4" aria-selected="false">
-                            <!-- Single Video Widget -->
-                            <div class="single-video-widget d-flex wow fadeInUp" data-wow-delay="400ms">
-                                <div class="video-thumbnail">
-                                    <img src="img/bg-img/17.jpg" alt="">
-                                </div>
-                                <div class="video-text">
-                                    <p class="video-title mb-0">Assemble Your Squad and Join the Battle</p>
-                                    <span>Nintendo Wii, PS4, XBox 360</span>
-                                </div>
-                                <div class="video-rating">8.3/10</div>
-                            </div>
-                        </a>
-
-                        <a class="nav-link" id="video5" data-toggle="pill" href="#video-5" role="tab" aria-controls="video-5" aria-selected="false">
-                            <!-- Single Video Widget -->
-                            <div class="single-video-widget d-flex wow fadeInUp" data-wow-delay="500ms">
-                                <div class="video-thumbnail">
-                                    <img src="img/bg-img/18.jpg" alt="">
-                                </div>
-                                <div class="video-text">
-                                    <p class="video-title mb-0">Tips to improve your game</p>
-                                    <span>Nintendo Wii, PS4, XBox 360</span>
-                                </div>
-                                <div class="video-rating">8.3/10</div>
-                            </div>
-                        </a>
-
-                        <a class="nav-link" id="video6" data-toggle="pill" href="#video-6" role="tab" aria-controls="video-6" aria-selected="false">
-                            <!-- Single Video Widget -->
-                            <div class="single-video-widget d-flex wow fadeInUp" data-wow-delay="600ms">
-                                <div class="video-thumbnail">
-                                    <img src="img/bg-img/14.jpg" alt="">
-                                </div>
-                                <div class="video-text">
-                                    <p class="video-title mb-0">Game reviews: the best of 2018</p>
-                                    <span>Nintendo Wii, PS4, XBox 360</span>
-                                </div>
-                                <div class="video-rating">8.3/10</div>
-                            </div>
-                        </a>
-
-                        <a class="nav-link" id="video7" data-toggle="pill" href="#video-7" role="tab" aria-controls="video-7" aria-selected="false">
-                            <!-- Single Video Widget -->
-                            <div class="single-video-widget d-flex wow fadeInUp" data-wow-delay="700ms">
-                                <div class="video-thumbnail">
-                                    <img src="img/bg-img/15.jpg" alt="">
-                                </div>
-                                <div class="video-text">
-                                    <p class="video-title mb-0">Tips to improve your game</p>
-                                    <span>Nintendo Wii, PS4, XBox 360</span>
-                                </div>
-                                <div class="video-rating">8.3/10</div>
-                            </div>
-                        </a>
-
-                        <a class="nav-link" id="video8" data-toggle="pill" href="#video-8" role="tab" aria-controls="video-8" aria-selected="false">
-                            <!-- Single Video Widget -->
-                            <div class="single-video-widget d-flex wow fadeInUp" data-wow-delay="800ms">
-                                <div class="video-thumbnail">
-                                    <img src="img/bg-img/16.jpg" alt="">
-                                </div>
-                                <div class="video-text">
-                                    <p class="video-title mb-0">Game reviews: the best of 2018</p>
-                                    <span>Nintendo Wii, PS4, XBox 360</span>
-                                </div>
-                                <div class="video-rating">8.3/10</div>
-                            </div>
-                        </a>
+                        </div>
                     </div>
-                </div>
+                </div><!-- /.em-new-arrivals-tabs -->
             </div>
-
-            <div class="col-12 col-md-6 col-lg-8">
-                <div class="tab-content" id="video-tabContent">
-                    <div class="tab-pane fade show active" id="video-1" role="tabpanel" aria-labelledby="video1">
-                        <div class="video-playground bg-img" style="background-image: url(img/bg-img/45.jpg);">
-                            <!-- Play Button -->
-                            <div class="play-btn">
-                                <a href="https://www.youtube.com/watch?v=7HKoqNJtMTQ" class="play-button"><img src="img/core-img/play.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="video-2" role="tabpanel" aria-labelledby="video2">
-                        <div class="video-playground bg-img" style="background-image: url(img/bg-img/46.jpg);">
-                            <!-- Play Button -->
-                            <div class="play-btn">
-                                <a href="https://www.youtube.com/watch?v=7HKoqNJtMTQ" class="play-button"><img src="img/core-img/play.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="video-3" role="tabpanel" aria-labelledby="video3">
-                        <div class="video-playground bg-img" style="background-image: url(img/bg-img/47.jpg);">
-                            <!-- Play Button -->
-                            <div class="play-btn">
-                                <a href="https://www.youtube.com/watch?v=7HKoqNJtMTQ" class="play-button"><img src="img/core-img/play.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="video-4" role="tabpanel" aria-labelledby="video4">
-                        <div class="video-playground bg-img" style="background-image: url(img/bg-img/48.jpg);">
-                            <!-- Play Button -->
-                            <div class="play-btn">
-                                <a href="https://www.youtube.com/watch?v=7HKoqNJtMTQ" class="play-button"><img src="img/core-img/play.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="video-5" role="tabpanel" aria-labelledby="video5">
-                        <div class="video-playground bg-img" style="background-image: url(img/bg-img/49.jpg);">
-                            <!-- Play Button -->
-                            <div class="play-btn">
-                                <a href="https://www.youtube.com/watch?v=7HKoqNJtMTQ" class="play-button"><img src="img/core-img/play.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="video-6" role="tabpanel" aria-labelledby="video6">
-                        <div class="video-playground bg-img" style="background-image: url(img/bg-img/45.jpg);">
-                            <!-- Play Button -->
-                            <div class="play-btn">
-                                <a href="https://www.youtube.com/watch?v=7HKoqNJtMTQ" class="play-button"><img src="img/core-img/play.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="video-7" role="tabpanel" aria-labelledby="video7">
-                        <div class="video-playground bg-img" style="background-image: url(img/bg-img/46.jpg);">
-                            <!-- Play Button -->
-                            <div class="play-btn">
-                                <a href="https://www.youtube.com/watch?v=7HKoqNJtMTQ" class="play-button"><img src="img/core-img/play.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="video-8" role="tabpanel" aria-labelledby="video8">
-                        <div class="video-playground bg-img" style="background-image: url(img/bg-img/47.jpg);">
-                            <!-- Play Button -->
-                            <div class="play-btn">
-                                <a href="https://www.youtube.com/watch?v=7HKoqNJtMTQ" class="play-button"><img src="img/core-img/play.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
+            <div class="em-wrapper-top-games-slider  em-line-01 button-show01">
+                <div class="widget-title em-widget-title">
+                    <h3><span>Nổi bật</span></h3>
                 </div>
+                <div class="em-top-games-slider">
+                    <div id="em_ajax_products_49d77777fbd464282288a6cbd5b9e828" class="emfilter-ajaxblock-loaded">
+                        <div id="em_minifilter_products_634834e06ccc85dbb9d829718815cb41" class="em-grid-00 ">
+                            <div class="widget em-filterproducts-grid">
+                                <div class="widget-products em-widget-products">
+                                    <div class="products-grid owl-carousel owl-theme ">
+                                        <div class="item">
+                                            <div class="product-item">
+                                                <div class="product-shop-top">
+                                                    <a href="product-detail.html" title=" Frozen" class="product-image">
+                                                        <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp5_2.jpg" width="350" height="350" alt=" Frozen" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp5_1.jpg" width="350" height="350" alt=" Frozen" /> </a>
+                                                    <div class="em-element-display-hover bottom">
+                                                        <div class="em-btn-addto">
+                                                            <!--product add to cart-->
+                                                            <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                            </button>
+                                                            <!--product add to compare-wishlist-->
+                                                            <ul class="add-to-links">
+                                                                <li><a href="#406" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                </li>
+                                                                <li><span class="separator">|</span> <a href="#406" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                    </div>
+                                                </div>
+                                                <div class="product-shop">
+                                                    <div class="f-fix">
+                                                        <!--product name-->
+                                                        <h3 class="product-name"><a href="product-detail.html" title=" Frozen"> Frozen</a></h3>
+                                                        <!--product description-->
+                                                        <!--product reviews-->
+                                                        <div class="ratings">
+                                                            <div class="rating-box">
+                                                                <div class="rating" style="width:%"></div>
+                                                            </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                        <!--product price-->
+                                                        <div class="price-box"> <span class="regular-price">
+                                                                                        <span class="price">$860.00</span> </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div><!-- /.item -->
+                                        <div class="item">
+                                            <div class="product-item">
+                                                <div class="product-shop-top">
+                                                    <a href="product-detail.html" title="Cinderella 2-Disc" class="product-image">
+                                                        <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp10_2.jpg" width="350" height="350" alt="Cinderella 2-Disc" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp10_1.jpg" width="350" height="350" alt="Cinderella 2-Disc" /> </a>
+                                                    <div class="em-element-display-hover bottom">
+                                                        <div class="em-btn-addto">
+                                                            <!--product add to cart-->
+                                                            <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                            </button>
+                                                            <!--product add to compare-wishlist-->
+                                                            <ul class="add-to-links">
+                                                                <li><a href="#411" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                </li>
+                                                                <li><span class="separator">|</span> <a href="#411" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                    </div>
+                                                </div>
+                                                <div class="product-shop">
+                                                    <div class="f-fix">
+                                                        <!--product name-->
+                                                        <h3 class="product-name"><a href="product-detail.html" title="Cinderella 2-Disc">Cinderella 2-Disc</a></h3>
+                                                        <!--product description-->
+                                                        <!--product reviews-->
+                                                        <div class="ratings">
+                                                            <div class="rating-box">
+                                                                <div class="rating" style="width:%"></div>
+                                                            </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                        <!--product price-->
+                                                        <div class="price-box"> <span class="regular-price">
+                                                                                        <span class="price">$150.00</span> </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div><!-- /.item -->
+                                        <div class="item">
+                                            <div class="product-item">
+                                                <div class="product-shop-top">
+                                                    <a href="product-detail.html" title="Furious 7" class="product-image">
+                                                        <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp7_2.jpg" width="350" height="350" alt="Furious 7" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp7_1.jpg" width="350" height="350" alt="Furious 7" /> </a>
+                                                    <div class="em-element-display-hover bottom">
+                                                        <div class="em-btn-addto">
+                                                            <!--product add to cart-->
+                                                            <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                            </button>
+                                                            <!--product add to compare-wishlist-->
+                                                            <ul class="add-to-links">
+                                                                <li><a href="#408" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                </li>
+                                                                <li><span class="separator">|</span> <a href="#408" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                    </div>
+                                                </div>
+                                                <div class="product-shop">
+                                                    <div class="f-fix">
+                                                        <!--product name-->
+                                                        <h3 class="product-name"><a href="product-detail.html" title="Furious 7">Furious 7</a></h3>
+                                                        <!--product description-->
+                                                        <!--product reviews-->
+                                                        <div class="ratings">
+                                                            <div class="rating-box">
+                                                                <div class="rating" style="width:%"></div>
+                                                            </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                        <!--product price-->
+                                                        <div class="price-box"> <span class="regular-price">
+                                                                                        <span class="price">$110.00</span> </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div><!-- /.item -->
+                                        <div class="item">
+                                            <div class="product-item">
+                                                <div class="product-shop-top">
+                                                    <a href="product-detail.html" title="Iron Man 3" class="product-image">
+                                                        <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp3_2.jpg" width="350" height="350" alt="Iron Man 3" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp3_1.jpg" width="350" height="350" alt="Iron Man 3" /> </a>
+                                                    <div class="em-element-display-hover bottom">
+                                                        <div class="em-btn-addto">
+                                                            <!--product add to cart-->
+                                                            <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                            </button>
+                                                            <!--product add to compare-wishlist-->
+                                                            <ul class="add-to-links">
+                                                                <li><a href="#404" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                </li>
+                                                                <li><span class="separator">|</span> <a href="#404" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                    </div>
+                                                </div>
+                                                <div class="product-shop">
+                                                    <div class="f-fix">
+                                                        <!--product name-->
+                                                        <h3 class="product-name"><a href="product-detail.html" title="Iron Man 3">Iron Man 3</a></h3>
+                                                        <!--product description-->
+                                                        <!--product reviews-->
+                                                        <div class="ratings">
+                                                            <div class="rating-box">
+                                                                <div class="rating" style="width:%"></div>
+                                                            </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                        <!--product price-->
+                                                        <div class="price-box"> <span class="regular-price">
+                                                                                        <span class="price">$130.00</span> </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div><!-- /.item -->
+                                        <div class="item">
+                                            <div class="product-item">
+                                                <div class="product-shop-top">
+                                                    <a href="product-detail.html" title="Jupiter Ascending" class="product-image">
+                                                        <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp8_2.jpg" width="350" height="350" alt="Jupiter Ascending" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp8_1.jpg" width="350" height="350" alt="Jupiter Ascending" /> </a>
+                                                    <div class="em-element-display-hover bottom">
+                                                        <div class="em-btn-addto">
+                                                            <!--product add to cart-->
+                                                            <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                            </button>
+                                                            <!--product add to compare-wishlist-->
+                                                            <ul class="add-to-links">
+                                                                <li><a href="#409" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                </li>
+                                                                <li><span class="separator">|</span> <a href="#409" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                    </div>
+                                                </div>
+                                                <div class="product-shop">
+                                                    <div class="f-fix">
+                                                        <!--product name-->
+                                                        <h3 class="product-name"><a href="product-detail.html" title="Jupiter Ascending">Jupiter Ascending</a></h3>
+                                                        <!--product description-->
+                                                        <!--product reviews-->
+                                                        <div class="ratings">
+                                                            <div class="rating-box">
+                                                                <div class="rating" style="width:%"></div>
+                                                            </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                        <!--product price-->
+                                                        <div class="price-box"> <span class="regular-price">
+                                                                                        <span class="price">$170.00</span> </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div><!-- /.item -->
+                                        <div class="item">
+                                            <div class="product-item">
+                                                <div class="product-shop-top">
+                                                    <a href="product-detail.html" title="Jurassic World" class="product-image">
+                                                        <!--show label product - label extension is required--><img class="em-alt-hover img-responsive em-img-lazy" src="public/images/product/350x350/gameword_sp9_2.jpg" width="350" height="350" alt="Jurassic World" /> <img class="img-responsive em-img-lazy em-alt-org" src="public/images/product/350x350/gameword_sp9_1.jpg" width="350" height="350" alt="Jurassic World" /> </a>
+                                                    <div class="em-element-display-hover bottom">
+                                                        <div class="em-btn-addto">
+                                                            <!--product add to cart-->
+                                                            <button type="button" title="Add to Cart" class="button btn-cart"><span><span>Add to Cart</span></span>
+                                                            </button>
+                                                            <!--product add to compare-wishlist-->
+                                                            <ul class="add-to-links">
+                                                                <li><a href="#410" class="link-wishlist" title="Add to Wishlist">Add to Wishlist</a>
+                                                                </li>
+                                                                <li><span class="separator">|</span> <a href="#410" class="link-compare" title="Add to Compare">Add to Compare</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="quickshop-link-container"> <a href="#" class="quickshop-link" title="Quickshop">Quickshop</a> </div>
+                                                    </div>
+                                                </div>
+                                                <div class="product-shop">
+                                                    <div class="f-fix">
+                                                        <!--product name-->
+                                                        <h3 class="product-name"><a href="product-detail.html" title="Jurassic World">Jurassic World</a></h3>
+                                                        <!--product description-->
+                                                        <!--product reviews-->
+                                                        <div class="ratings">
+                                                            <div class="rating-box">
+                                                                <div class="rating" style="width:%"></div>
+                                                            </div> <span class="amount"><a href="#">(0)</a></span> </div>
+                                                        <!--product price-->
+                                                        <div class="price-box"> <span class="regular-price">
+                                                                                        <span class="price">$750.00</span> </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div><!-- /.item -->
+                                    </div>
+                                </div>
+                            </div><!-- /.widget -->
+                        </div>
+                    </div>
+                </div><!-- /.em-top-games-slider -->
             </div>
         </div>
     </div>
-</div>
-<!-- ##### Video Area End ##### -->
-
-<!-- ##### Articles Area Start ##### -->
-<section class="latest-articles-area section-padding-100-0 bg-img bg-pattern bg-fixed" style="background-image: url(img/bg-img/5.jpg);">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-12 col-lg-8">
-                <div class="mb-100">
-                    <!-- Title -->
-                    <h2 class="section-title mb-70 wow fadeInUp" data-wow-delay="100ms">Latest Articles</h2>
-
-                    <!-- *** Single Articles Area *** -->
-                    <div class="single-articles-area style-2 d-flex flex-wrap mb-30 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="article-thumbnail">
-                            <img src="img/bg-img/6.jpg" alt="">
-                        </div>
-                        <div class="article-content">
-                            <a href="single-post.html" class="post-title">Sony’s new releases for 2018</a>
-                            <div class="post-meta">
-                                <a href="#" class="post-date">July 12, 2018</a>
-                                <a href="#" class="post-comments">2 Comments</a>
-                            </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit arcu, scelerisque dignissim massa quis, mattis facilisis erat. Aliquam erat volutpat. Sed efficitur diam.</p>
-                        </div>
-                    </div>
-
-                    <!-- *** Single Articles Area *** -->
-                    <div class="single-articles-area style-2 d-flex flex-wrap mb-30 wow fadeInUp" data-wow-delay="500ms">
-                        <div class="article-thumbnail">
-                            <img src="img/bg-img/7.jpg" alt="">
-                        </div>
-                        <div class="article-content">
-                            <a href="single-post.html" class="post-title">10 Tips to be a better gamer</a>
-                            <div class="post-meta">
-                                <a href="#" class="post-date">July 12, 2018</a>
-                                <a href="#" class="post-comments">2 Comments</a>
-                            </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit arcu, scelerisque dignissim massa quis, mattis facilisis erat. Aliquam erat volutpat. Sed efficitur diam.</p>
-                        </div>
-                    </div>
-
-                    <!-- *** Single Articles Area *** -->
-                    <div class="single-articles-area style-2 d-flex flex-wrap mb-30 wow fadeInUp" data-wow-delay="700ms">
-                        <div class="article-thumbnail">
-                            <img src="img/bg-img/8.jpg" alt="">
-                        </div>
-                        <div class="article-content">
-                            <a href="single-post.html" class="post-title">Microsoft has some new tips</a>
-                            <div class="post-meta">
-                                <a href="#" class="post-date">July 12, 2018</a>
-                                <a href="#" class="post-comments">2 Comments</a>
-                            </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit arcu, scelerisque dignissim massa quis, mattis facilisis erat. Aliquam erat volutpat. Sed efficitur diam.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-6 col-lg-4">
-                <!-- Title -->
-                <h2 class="section-title mb-70 wow fadeInUp" data-wow-delay="100ms">This week’s deal</h2>
-
-                <!-- Single Widget Area -->
-                <div class="single-widget-area add-widget wow fadeInUp" data-wow-delay="300ms">
-                    <a href="#"><img src="img/bg-img/add.png" alt=""></a>
-                    <!-- Side Img -->
-                    <img src="img/bg-img/side-img.png" class="side-img" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- ##### Articles Area End ##### -->
+</div><!-- /.em-main-container -->

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92484c29-7632-4dbe-9bb8-db457e8ed26e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/layout/banner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/js.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/newsletter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/myCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_fonts.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/784dae5ef9dd9b2412614a557eea7d45ebdf5ed5/_fonts.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/784dae5ef9dd9b2412614a557eea7d45ebdf5ed5/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/784dae5ef9dd9b2412614a557eea7d45ebdf5ed5/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/784dae5ef9dd9b2412614a557eea7d45ebdf5ed5/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/784dae5ef9dd9b2412614a557eea7d45ebdf5ed5/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/784dae5ef9dd9b2412614a557eea7d45ebdf5ed5/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/_fonts.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/aaea34438c4adf88ad126fd9f0fe12a19e9263ac/_fonts.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/aaea34438c4adf88ad126fd9f0fe12a19e9263ac/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/aaea34438c4adf88ad126fd9f0fe12a19e9263ac/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/aaea34438c4adf88ad126fd9f0fe12a19e9263ac/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/aaea34438c4adf88ad126fd9f0fe12a19e9263ac/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/d85c8cf619ac1df897d554b9bf37f413df87287f/_fonts.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/d85c8cf619ac1df897d554b9bf37f413df87287f/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/d85c8cf619ac1df897d554b9bf37f413df87287f/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/d85c8cf619ac1df897d554b9bf37f413df87287f/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/d85c8cf619ac1df897d554b9bf37f413df87287f/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datalayout/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Datalayout/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datalayout/game-review.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datalayout/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datalayout/single-game-review.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datalayout/single-post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/classy-nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nice-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/classy.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/classy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/classy.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/classy.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/game1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/game2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/game3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/side-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/app-store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/google-play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/pattern2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery/jquery-2.2.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/layout/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/layout/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/slides.php" beforeDir="false" afterPath="$PROJECT_DIR$/layout/slides.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/top_header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_theme_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iBfDQ81XNJjDU3Da19GVXSnVp2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NTNstore/Web_NTNstore" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92484c29-7632-4dbe-9bb8-db457e8ed26e" name="Default Changelist" comment="" />
+      <created>1601385785461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601385785461</updated>
+      <workItem from="1601385786526" duration="3572000" />
+      <workItem from="1601448884997" duration="134000" />
+      <workItem from="1601449023989" duration="35920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="316" key="FileChooserDialogImpl" timestamp="1601483889718">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="804" y="316" key="FileChooserDialogImpl/0.0.2048.1122@0.0.2048.1122" timestamp="1601483889718" />
+    <state x="858" y="484" key="NewPhpFileDialog" timestamp="1601480745611">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="858" y="484" key="NewPhpFileDialog/0.0.2048.1122@0.0.2048.1122" timestamp="1601480745611" />
+  </component>
+</project>
