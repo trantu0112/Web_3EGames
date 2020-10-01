@@ -59,17 +59,17 @@
                             <div class="row">
                                 <div class="col-sm-4 first text-center">
                                     <div class="em-block-title" data-collapse-target="#collapse01">
-                                        <p class="h4 em-text-upercase"><span>What's hot</span>
+                                        <p class="h4 em-text-upercase"><span>Tin tức HOT</span>
                                         </p>
                                     </div>
                                     <ul id="collapse01" class="em-links em-block-content block-info">
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Discount Voucher</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Khuyến mãi</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Spring Collection</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Sản phẩm nổi bật</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Trending</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Sản phẩm mới</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Best Sellers</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>MOBA</span></a>
                                         </li>
                                     </ul>
                                 </div><!-- /.col-sm-4 -->
@@ -79,13 +79,13 @@
                                         </p>
                                     </div>
                                     <ul id="collapse02" class="em-links em-block-content block-info">
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Jack &amp; Jones</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Game bản quyền là gì?</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Calvin Klein</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Giới thiệu TT Shop</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Ray Ban</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Điều khoản dịch vụ</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>River Island</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Chính sách bảo mật</span></a>
                                         </li>
                                     </ul>
                                 </div><!-- /.col-sm-4 -->
@@ -95,13 +95,13 @@
                                         </p>
                                     </div>
                                     <ul id="collapse03" class="em-links em-block-content block-info">
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Top</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Đăng kí</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Bottoms</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Đăng nhập</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Accessories</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Giỏ hàng</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Shoes</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Đơn hàng</span></a>
                                         </li>
                                     </ul>
                                 </div><!-- /.col-sm-4 -->
@@ -111,13 +111,13 @@
                                         </p>
                                     </div>
                                     <ul id="collapse04" class="em-links em-block-content block-info">
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Jeans</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Địa chỉ giao dịch trực tiếp</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Dresses</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Hotline: 093 5709 669</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Other</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Email: hotro@ttshop.vn</span></a>
                                         </li>
-                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Shoes</span></a>
+                                        <li class="em-links-item"><a title="em-sample-title" href="#"><span>Fanpage</span></a>
                                         </li>
                                     </ul>
                                 </div><!-- /.col-sm-4 -->
