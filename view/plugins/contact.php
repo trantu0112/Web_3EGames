@@ -63,5 +63,4 @@
                 </div>
             </div><!-- /.em-main-container -->
         </div>
-    </div>
 </div><!-- /.em-wrapper-main -->

@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
 <?php include_once "layout/head.php"; ?>
-	<body class="cms-index-index">
+	<body>
         <div class="wrapper">
             <noscript>
                 <div class="global-site-notice noscript">
@@ -48,8 +48,8 @@
                                 case 'product-list':
                                     include_once 'view/product/product-list.php';
                                     break;
-                                case 'product':
-                                    include_once 'view/product/product.php';
+                                case 'product-detail':
+                                    include_once 'view/product/product-detail.php';
                                     break;
                                 case 'register':
                                     include_once 'view/account/register.php';
@@ -72,13 +72,12 @@
                                         </div>
                                     </div>
                                             <?php
-                                            break;
+                                    include_once "layout/newsletter.php";
+                                    break;
                                                 }
                                             ?>
                 <?php include_once "layout/footer.php"; ?>
-                <?php include_once "layout/newsletter.php"; ?>
             </div><!-- /.page -->
         </div><!-- /.wrapper -->
-        <?php include_once "layout/js.php"; ?>
     </body>
 </html>

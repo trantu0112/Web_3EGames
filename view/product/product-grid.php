@@ -7,10 +7,6 @@
                             <div class="em-main-container em-col2-left-layout">
                                 <div class="row">
                                     <div class="col-sm-18 col-sm-push-6 em-col-main">
-                                        <div class="page-title category-title">
-                                            <h1>Shoes</h1>
-                                        </div>
-                                        
                                         <div class="category-products">
                                             <div class="toolbar-top">
                                                 <div class="toolbar">
@@ -22,7 +18,7 @@
                                                                 <li><a href="#">2</a>
                                                                 </li>
                                                                 <li>
-                                                                    <a class="next i-next" href="#" title="Next"> <img src="images/pager_arrow_right.gif" alt="Next" class="v-middle" /> </a>
+                                                                    <a class="next i-next" href="#" title="Next"> <img src="public/images/pager_arrow_right.gif" alt="Next" class="v-middle" /> </a>
                                                                 </li>
                                                             </ol>
                                                         </div>
@@ -40,7 +36,7 @@
                                                                     <option value="price"> Price</option>
                                                                 </select>
                                                             </div>
-                                                            <a href="#" title="Set Descending Direction"><img src="images/i_asc_arrow.png" alt="Set Descending Direction" class="v-middle" />
+                                                            <a href="#" title="Set Descending Direction"><img src="public/images/i_asc_arrow.png" alt="Set Descending Direction" class="v-middle" />
                                                             </a>
                                                         </div>
                                                         <div class="limiter toolbar-switch">
@@ -61,7 +57,7 @@
                                                     <li class="item first">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="product-detail.html" title="WIASSI Version 1" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/5_1.jpg" width="220" height="220" alt="WIASSI Version 1" /> <img id="product-collection-image-206" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/4_1.jpg" width="220" height="220" alt="WIASSI Version 1" /><span class="bkg-hover"></span> </a>
+                                                                <a href="product-detail.html" title="WIASSI Version 1" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/5_1.jpg" width="220" height="220" alt="WIASSI Version 1" /> <img id="product-collection-image-206" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/4_1.jpg" width="220" height="220" alt="WIASSI Version 1" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="206"><span><span>Add to Cart</span></span>
@@ -99,7 +95,7 @@
                                                     <li class="item">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="product-detail.html" title="WIASSI Version 12" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/shoe_sp12_1.jpg" width="220" height="220" alt="WIASSI Version 12" /> <img id="product-collection-image-217" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/shoe_sp12_2.jpg" width="220" height="220" alt="WIASSI Version 12" /><span class="bkg-hover"></span> </a>
+                                                                <a href="product-detail.html" title="WIASSI Version 12" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/shoe_sp12_1.jpg" width="220" height="220" alt="WIASSI Version 12" /> <img id="product-collection-image-217" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/shoe_sp12_2.jpg" width="220" height="220" alt="WIASSI Version 12" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="217"><span><span>Add to Cart</span></span>
@@ -137,7 +133,7 @@
                                                     <li class="item">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="#" title="WIASSI Version 13" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/shoe_sp13_1.jpg" width="220" height="220" alt="WIASSI Version 13" /> <img id="product-collection-image-218" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/shoe_sp13_2.jpg" width="220" height="220" alt="WIASSI Version 13" /><span class="bkg-hover"></span> </a>
+                                                                <a href="#" title="WIASSI Version 13" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/shoe_sp13_1.jpg" width="220" height="220" alt="WIASSI Version 13" /> <img id="product-collection-image-218" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/shoe_sp13_2.jpg" width="220" height="220" alt="WIASSI Version 13" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="218"><span><span>Add to Cart</span></span>
@@ -175,7 +171,7 @@
                                                     <li class="item">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="#" title="WIASSI Version 14" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/shoe_sp14_1.jpg" width="220" height="220" alt="WIASSI Version 14" /> <img id="product-collection-image-219" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/shoe_sp14_2.jpg" width="220" height="220" alt="WIASSI Version 14" /><span class="bkg-hover"></span> </a>
+                                                                <a href="#" title="WIASSI Version 14" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/shoe_sp14_1.jpg" width="220" height="220" alt="WIASSI Version 14" /> <img id="product-collection-image-219" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/shoe_sp14_2.jpg" width="220" height="220" alt="WIASSI Version 14" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="219"><span><span>Add to Cart</span></span>
@@ -213,7 +209,7 @@
                                                     <li class="item">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="#" title="WIASSI Version 15" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/shoe_sp15_1.jpg" width="220" height="220" alt="WIASSI Version 15" /> <img id="product-collection-image-220" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/shoe_sp15_2.jpg" width="220" height="220" alt="WIASSI Version 15" /><span class="bkg-hover"></span> </a>
+                                                                <a href="#" title="WIASSI Version 15" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/shoe_sp15_1.jpg" width="220" height="220" alt="WIASSI Version 15" /> <img id="product-collection-image-220" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/shoe_sp15_2.jpg" width="220" height="220" alt="WIASSI Version 15" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="220"><span><span>Add to Cart</span></span>
@@ -251,7 +247,7 @@
                                                     <li class="item">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="#" title="WIASSI Version 16" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/shoe_sp16_1.jpg" width="220" height="220" alt="WIASSI Version 16" /> <img id="product-collection-image-221" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/shoe_sp16_2.jpg" width="220" height="220" alt="WIASSI Version 16" /><span class="bkg-hover"></span> </a>
+                                                                <a href="#" title="WIASSI Version 16" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/shoe_sp16_1.jpg" width="220" height="220" alt="WIASSI Version 16" /> <img id="product-collection-image-221" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/shoe_sp16_2.jpg" width="220" height="220" alt="WIASSI Version 16" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="221"><span><span>Add to Cart</span></span>
@@ -289,7 +285,7 @@
                                                     <li class="item">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="#" title="WIASSI Version 17" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/shoe_sp17_1.jpg" width="220" height="220" alt="WIASSI Version 17" /> <img id="product-collection-image-222" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/shoe_sp17_2.jpg" width="220" height="220" alt="WIASSI Version 17" /><span class="bkg-hover"></span> </a>
+                                                                <a href="#" title="WIASSI Version 17" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/shoe_sp17_1.jpg" width="220" height="220" alt="WIASSI Version 17" /> <img id="product-collection-image-222" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/shoe_sp17_2.jpg" width="220" height="220" alt="WIASSI Version 17" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="222"><span><span>Add to Cart</span></span>
@@ -327,7 +323,7 @@
                                                     <li class="item">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="#" title="WIASSI Version 18" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/shoe_sp18_1.jpg" width="220" height="220" alt="WIASSI Version 18" /> <img id="product-collection-image-223" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/shoe_sp18_2.jpg" width="220" height="220" alt="WIASSI Version 18" /><span class="bkg-hover"></span> </a>
+                                                                <a href="#" title="WIASSI Version 18" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/shoe_sp18_1.jpg" width="220" height="220" alt="WIASSI Version 18" /> <img id="product-collection-image-223" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/shoe_sp18_2.jpg" width="220" height="220" alt="WIASSI Version 18" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="223"><span><span>Add to Cart</span></span>
@@ -365,7 +361,7 @@
                                                     <li class="item">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="product-detail.html" title="WIASSI Version 19" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/shoe_sp19_1.jpg" width="220" height="220" alt="WIASSI Version 19" /> <img id="product-collection-image-224" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/shoe_sp19_2.jpg" width="220" height="220" alt="WIASSI Version 19" /><span class="bkg-hover"></span> </a>
+                                                                <a href="product-detail.html" title="WIASSI Version 19" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/shoe_sp19_1.jpg" width="220" height="220" alt="WIASSI Version 19" /> <img id="product-collection-image-224" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/shoe_sp19_2.jpg" width="220" height="220" alt="WIASSI Version 19" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="224"><span><span>Add to Cart</span></span>
@@ -403,7 +399,7 @@
                                                     <li class="item">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="product-detail.html" title="WIASSI Version 11" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/shoe_sp11_1.jpg" width="220" height="220" alt="WIASSI Version 11" /> <img id="product-collection-image-216" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/shoe_sp11_2.jpg" width="220" height="220" alt="WIASSI Version 11" /><span class="bkg-hover"></span> </a>
+                                                                <a href="product-detail.html" title="WIASSI Version 11" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/shoe_sp11_1.jpg" width="220" height="220" alt="WIASSI Version 11" /> <img id="product-collection-image-216" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/shoe_sp11_2.jpg" width="220" height="220" alt="WIASSI Version 11" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="216"><span><span>Add to Cart</span></span>
@@ -441,7 +437,7 @@
                                                     <li class="item">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="product-detail.html" title="WIASSI Version 10" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/3_1.jpg" width="220" height="220" alt="WIASSI Version 10" /> <img id="product-collection-image-215" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/1_1.jpg" width="220" height="220" alt="WIASSI Version 10" /><span class="bkg-hover"></span> </a>
+                                                                <a href="product-detail.html" title="WIASSI Version 10" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/3_1.jpg" width="220" height="220" alt="WIASSI Version 10" /> <img id="product-collection-image-215" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/1_1.jpg" width="220" height="220" alt="WIASSI Version 10" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="215"><span><span>Add to Cart</span></span>
@@ -479,7 +475,7 @@
                                                     <li class="item last">
                                                         <div class="product-item">
                                                             <div class="product-shop-top">
-                                                                <a href="#" title="WIASSI Version 2" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="images/product/220x220/shoe_sp2_1.jpg" width="220" height="220" alt="WIASSI Version 2" /> <img id="product-collection-image-207" class="em-img-lazy img-responsive em-alt-org" src="images/product/220x220/shoe_sp2_2.jpg" width="220" height="220" alt="WIASSI Version 2" /><span class="bkg-hover"></span> </a>
+                                                                <a href="#" title="WIASSI Version 2" class="product-image"> <img class="em-img-lazy img-responsive em-alt-hover" src="public/images/product/220x220/shoe_sp2_1.jpg" width="220" height="220" alt="WIASSI Version 2" /> <img id="product-collection-image-207" class="em-img-lazy img-responsive em-alt-org" src="public/images/product/220x220/shoe_sp2_2.jpg" width="220" height="220" alt="WIASSI Version 2" /><span class="bkg-hover"></span> </a>
                                                                 <div class="bottom">
                                                                     <div class="em-btn-addto text-center ">
                                                                         <button type="button" title="Add to Cart" class="button btn-cart" onclick="207"><span><span>Add to Cart</span></span>
@@ -527,7 +523,7 @@
                                                                 <li><a href="#">2</a>
                                                                 </li>
                                                                 <li>
-                                                                    <a class="next i-next" href="#" title="Next"> <img src="images/pager_arrow_right.gif" alt="Next" class="v-middle" /> </a>
+                                                                    <a class="next i-next" href="#" title="Next"> <img src="public/images/pager_arrow_right.gif" alt="Next" class="v-middle" /> </a>
                                                                 </li>
                                                             </ol>
                                                         </div>
@@ -545,7 +541,7 @@
                                                                     <option value="price"> Price</option>
                                                                 </select>
                                                             </div>
-                                                            <a href="#" title="Set Descending Direction"><img src="images/i_asc_arrow.png" alt="Set Descending Direction" class="v-middle" />
+                                                            <a href="#" title="Set Descending Direction"><img src="public/images/i_asc_arrow.png" alt="Set Descending Direction" class="v-middle" />
                                                             </a>
                                                         </div>
                                                         <div class="limiter toolbar-switch">
@@ -617,21 +613,6 @@
                                                 <p class="empty">You have no items to compare.</p>
                                             </div>
                                         </div><!-- /.block-compare -->
-                                        <div class="em-wrapper-banners">
-                                            <div class="img-banner">
-                                                <div class="em-effect06">
-                                                    <a class="em-eff06-04" href="#"><img class="img-responsive retina-img" alt="em_ads_01.jpg" src="images/wysiwyg/em_ads_01.jpg" />
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="img-banner">
-                                                <div class="effect-hover-text2">
-                                                    <a class="banner-img" title="em-sample-title" href="#"> <img class="img-responsive retina-img" alt="em-sample-alt" src="images/wysiwyg/em_ads_05.jpg" /> </a>
-                                                    <a class="banner-text" title="em-sample-title" href="#"> <img class="img-responsive" alt="em-sample-alt" src="images/wysiwyg/em_ads_text_05.html" /> </a>
-                                                </div>
-                                            </div>
-                                        </div><!-- /.em-wrapper-banners -->
-                                    </div><!-- /.em-sidebar -->
                                 </div>
                             </div><!-- /.em-main-container -->
                         </div>
